@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/anush/OneDrive/Desktop/LEETCODE/LEETCODE-SOLUTIONS",
-      "program": "c:/Users/anush/OneDrive/Desktop/LEETCODE/LEETCODE-SOLUTIONS/build/Debug/outDebug",
+      "cwd": "c:/Users/anush/OneDrive/Desktop/LEETCODE/LEETCODE-SOLUTIONS/1. Two Sum",
+      "program": "c:/Users/anush/OneDrive/Desktop/LEETCODE/LEETCODE-SOLUTIONS/1. Two Sum/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
